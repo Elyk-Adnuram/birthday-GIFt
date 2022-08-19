@@ -68,7 +68,7 @@ p {
 }
 
 #gift-img-happy:hover {
-  background-image: url("https://media3.giphy.com/media/fHoqSTQTsgSbfUoiTw/giphy.gif");
+  background-image: url("images/happy.webp");
 }
 
 #gift-img-hot:hover {
@@ -76,11 +76,11 @@ p {
 }
 
 #gift-img-genius:hover {
-  background-image: url("https://c.tenor.com/yL9ngAGX60oAAAAM/genius-very-smart.gif");
+  background-image: url("images/describe.gif");
 }
 
 #gift-img-badass:hover {
-  background-image: url("https://c.tenor.com/iC3TCiY-cV4AAAAC/albert-einstein-lol.gif");
+  background-image: url("images/clever.gif");
 }
 
 #gift-img-cheers:hover {
